@@ -5,6 +5,7 @@ manufacturer:
 
 ### Android 6+
 
+
 Always check the following setting:
 
 - on older devices:<br>
